@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Agoric/harden#readme",
   "dependencies": {
-    "@agoric/make-hardener": "kumavis/make-hardener#8634290da26a99af5555b80b758fed709669584a"
+    "@agoric/make-hardener": "kumavis/make-hardener#2618a9af6fab6168675665c5d05b796442538fde"
   },
   "devDependencies": {
     "eslint": "^5.3.0",
